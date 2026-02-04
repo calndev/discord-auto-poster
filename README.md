@@ -1,6 +1,6 @@
 this automatically posts messages to discord channels on a timer
 
-# # BIG! DISCLAIMER 😨 this script violates https://discord.com/terms 😡 use at ur own risk 🥺
+# BIG! DISCLAIMER 😨 this script violates https://discord.com/terms 😡 use at ur own risk 🥺
 
 # install python stuff:
 ```
