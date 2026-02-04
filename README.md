@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 # config options
 - token - your discord user token (tutorial on how to get it [here](https://www.youtube.com/watch?v=5SRwnLYdpJs)
-- channel_id - the discord channel id (right click channel > copy id, need developer mode on)
+- channel_id - the discord channel id (right click channel > copy id, need developer mode on in discord settings)
 - message - what to post
 - interval_minutes - how often to post in minutes
 
