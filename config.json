@@ -1,0 +1,19 @@
+  "token": "YOUR_DISCORD_TOKEN_HERE",
+  "channels": [
+    {
+      "channel_id": "CHANNEL_ID_1",
+      "message": "your first message here",
+      "interval_minutes": 10
+    },
+    {
+      "channel_id": "CHANNEL_ID_2",
+      "message": "your second message here",
+      "interval_minutes": 5
+    },
+    {
+      "channel_id": "CHANNEL_ID_3",
+      "message": "your third message here",
+      "interval_minutes": 3
+    }
+  ]
+}
